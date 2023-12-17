@@ -1,33 +1,7 @@
 {
-"version": 5,
-"message": "What's new \nAdded new server Updated (5) \n💌 🏋️‍♀️🏋️‍♀️အပ်ဒိပ်လုပ်ရန် OK နိုပ်ပေးပါ🏋️‍♀️🏋️‍♀️💌 ",
+ "version": 5, "message": "What's new \nAdded new server Updated (5) \n💌 🏋️‍♀️🏋️‍♀️အပ်ဒိပ်လုပ်ရန် OK နိုပ်ပေးပါ🏋️‍♀️🏋️‍♀️💌 ", "files": [ { "config": "arnBD9eOdSq4adekXRMrAKAQEafHdYMa011FJsB6m4Deh6mAVVC+MFUZ0o7hQUI79R30LF50EgDziY7m3qa+bCvVE6kUHigi1iMYsjHfuIZ+FKCZrKYFNKMNefXap/Lcqq0xzQcXJyIN0HfUtxBuYW9Am7lPCvICjd5uj6eaXdTZ6TPuqHZiUGrGtxU/saKXcLQ9XxG3lnlvBvorfhhdjlRcrMlcqwhVwL9joNfH9ZcVNQdVsTqhnHboN0Ii8fzmhwB98EKG0Xi0WMtUem5nbbJClaCT4yVRzIGB4ISIPViwq9aYGnCBwYf0SFdzGVPNDnf43TDtEnjQg0/Fbu48Ve7yGnFZuGuZOZtdCsTCoTaaRhJ5YX1NANAXF3VCz5f3YxcT95rjTl8zmhkazisF49lDAPtNf1tHXnmNJQB2BekZ+vx3m9Y/yc10lYQ=" }, { "config": "wFCkYHBo88pVVcpy7/zOcItly1Jyq0bMrZvfcwUIzN2csXV/Gd/zeOcRaImV9tlWdngSg+q1YJCX/JIFhYqDr0a6hK/5AI3OON1edYjqi3QiUsSU9HjDXDVHAr4mgjtShqVk5oZzcPQ6GDoJ1Y79OCWPj8Te7CmM1cF+YafJtSdoy2W6TrTWpWPfdxE+M2fb3yYPBxH/alkp6rBEam7Bbt67EVBFyC8UKwuZJellb5cWcu4XaAl8AKuJh4lsAuru5M0+kG48CrfrwfD8H16rKeQxBfU2IwusGY9+QDLkAiRtlv8aG2SS/Zs4Tr5DRx9lpPUzDF7cxhFz5qH71SJKrm3HYVkHaGvD+EGDam8gEzBPaijdiXsxvgjvfoGfLzUlwqG4LrS5uv6PDoU/JZqOJW/xHi84r+nMrR0xMvGENYRjyE+x/sLYWqluSJs=" }, { "config": "ZxKhe7x8SDzXDts7V9Rr+h1cJXVx5yBl0bmBgQIkdWrzLeQHAP57J0BCdmEB0m4iJVsWrqWu5Jh97x6M6DpkLf77Bhxj1gpSh9mi+RCvAjrHhLnMKcD+g9DIDYky24+D7TUlzL1QUpkA4XGrpS7J0eMjVDt7qH0Ni2FS9wDxAdXpOXpjIh5dJGryAweUMJzqiGyTWj5rnxUO6pIUgQw5hACt/KghRUZXOHI9KzwcTMneZ64C5PUv1pumj7lNCX2/5A3FzRiyMmR2+mtsdax12xEdfalhiq2wDYK2l4wQMNptpmb1KJk40g3zhhSB46dAF+norC8mlSc2aYlVHPEVGc3RHPDLeZ26ynHeNIMuwogeOatyGDscfB6lcwdow6zCw9qBt/liQvIjohj1/BJR14WpXQTrogJdaap6C07vEkxTeu2I" } ], 
 
-"files": [
-
-{
-         
-         "config": "arnBD9eOdSq4adekXRMrAKAQEafHdYMa011FJsB6m4Deh6mAVVC+MFUZ0o7hQUI79R30LF50EgDziY7m3qa+bCvVE6kUHigi1iMYsjHfuIZ+FKCZrKYFNKMNefXap/Lcqq0xzQcXJyIN0HfUtxBuYW9Am7lPCvICjd5uj6eaXdTZ6TPuqHZiUGrGtxU/saKXcLQ9XxG3lnlvBvorfhhdjlRcrMlcqwhVwL9joNfH9ZcVNQdVsTqhnHboN0Ii8fzmhwB98EKG0Xi0WMtUem5nbbJClaCT4yVRzIGB4ISIPViwq9aYGnCBwYf0SFdzGVPNDnf43TDtEnjQg0/Fbu48Ve7yGnFZuGuZOZtdCsTCoTaaRhJ5YX1NANAXF3VCz5f3YxcT95rjTl8zmhkazisF49lDAPtNf1tHXnmNJQB2BekZ+vx3m9Y/yc10lYQ="
-
-      },
-{
-        
-         "config": "wFCkYHBo88pVVcpy7/zOcItly1Jyq0bMrZvfcwUIzN2csXV/Gd/zeOcRaImV9tlWdngSg+q1YJCX/JIFhYqDr0a6hK/5AI3OON1edYjqi3QiUsSU9HjDXDVHAr4mgjtShqVk5oZzcPQ6GDoJ1Y79OCWPj8Te7CmM1cF+YafJtSdoy2W6TrTWpWPfdxE+M2fb3yYPBxH/alkp6rBEam7Bbt67EVBFyC8UKwuZJellb5cWcu4XaAl8AKuJh4lsAuru5M0+kG48CrfrwfD8H16rKeQxBfU2IwusGY9+QDLkAiRtlv8aG2SS/Zs4Tr5DRx9lpPUzDF7cxhFz5qH71SJKrm3HYVkHaGvD+EGDam8gEzBPaijdiXsxvgjvfoGfLzUlwqG4LrS5uv6PDoU/JZqOJW/xHi84r+nMrR0xMvGENYRjyE+x/sLYWqluSJs="
-
-      },
-
-{
-         
-         "config": "ZxKhe7x8SDzXDts7V9Rr+h1cJXVx5yBl0bmBgQIkdWrzLeQHAP57J0BCdmEB0m4iJVsWrqWu5Jh97x6M6DpkLf77Bhxj1gpSh9mi+RCvAjrHhLnMKcD+g9DIDYky24+D7TUlzL1QUpkA4XGrpS7J0eMjVDt7qH0Ni2FS9wDxAdXpOXpjIh5dJGryAweUMJzqiGyTWj5rnxUO6pIUgQw5hACt/KghRUZXOHI9KzwcTMneZ64C5PUv1pumj7lNCX2/5A3FzRiyMmR2+mtsdax12xEdfalhiq2wDYK2l4wQMNptpmb1KJk40g3zhhSB46dAF+norC8mlSc2aYlVHPEVGc3RHPDLeZ26ynHeNIMuwogeOatyGDscfB6lcwdow6zCw9qBt/liQvIjohj1/BJR14WpXQTrogJdaap6C07vEkxTeu2I"
-
-      }
-
-   ],
-
-{ 
-
-"true": "📢True က ဘာမှ စမတ်စရာမလိုဘူးေနာ် တန်းချိတ်ရုံပဲ💯",
-"ais": "📢Ais  အင်တာနက်ဖရီး သုံးရန် လမ်းညွှန် \n*777*885#✅30ရက် 59ဘတ်ကုန်ပါတယ် \n🗣*777*7067# 30ရက်✅ 31ဘတ်ကုန်ကျပါမယ်\nနံပါတ် နှစ်ခုလုံး စမတ်မှ ရမယ် Ais64k ဖိုင်လို့ ရေးထားတဲ့ဖိုင်ကို ရွေးပြီး ချိတ်သုံးလို့ ရပါတယ်ခင်ဗျာ"
-
-
-
-}
+"dtac": "",
+"true": "📢True က ဘာမှ စမတ်စရာမလိုဘူးနော် တန်းချိတ်ရုံပဲ💯",
+ "ais": "📢Ais အင်တာနက်ဖရီး သုံးရန် လမ်းညွှန် \n*777*885# 30ရက် 59ဘတ် \n*777*7067# 30ရက် 31ဘတ်\nနံပါတ် နှစ်ခုလုံး စမတ်မှ ရပါမယ် Ais64k ဖိုင်လို့ ရေးထားတဲ့ဖိုင်ကို ရွေးပြီး ချိတ်သုံးလို့ ရပါတယ်ခင်ဗျာ"
+ }
